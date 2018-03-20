@@ -1,6 +1,8 @@
 # apim-db-replication-resolver
 Some of the database tables in WSO2 API Manager, do not have primary keys. The following scripts will add primary keys for those tables.
 
+Since all tables have primary keys, this will facilitate database replication.
+
 **Tables Fixed**
 
 ```
